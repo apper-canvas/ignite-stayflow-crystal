@@ -1,0 +1,182 @@
+[
+  {
+    "Id": 1,
+    "number": "101",
+    "type": "Standard Single",
+    "floor": 1,
+    "status": "available",
+    "price": 89,
+    "amenities": ["WiFi", "TV", "Air Conditioning", "Private Bath"]
+  },
+  {
+    "Id": 2,
+    "number": "102",
+    "type": "Standard Double",
+    "floor": 1,
+    "status": "occupied",
+    "price": 119,
+    "amenities": ["WiFi", "TV", "Air Conditioning", "Private Bath", "Mini Fridge"]
+  },
+  {
+    "Id": 3,
+    "number": "103",
+    "type": "Deluxe Single",
+    "floor": 1,
+    "status": "available",
+    "price": 109,
+    "amenities": ["WiFi", "TV", "Air Conditioning", "Private Bath", "Balcony"]
+  },
+  {
+    "Id": 4,
+    "number": "104",
+    "type": "Standard Double",
+    "floor": 1,
+    "status": "dirty",
+    "price": 119,
+    "amenities": ["WiFi", "TV", "Air Conditioning", "Private Bath", "Mini Fridge"]
+  },
+  {
+    "Id": 5,
+    "number": "201",
+    "type": "Deluxe Double",
+    "floor": 2,
+    "status": "available",
+    "price": 149,
+    "amenities": ["WiFi", "TV", "Air Conditioning", "Private Bath", "Mini Fridge", "Balcony"]
+  },
+  {
+    "Id": 6,
+    "number": "202",
+    "type": "Junior Suite",
+    "floor": 2,
+    "status": "occupied",
+    "price": 199,
+    "amenities": ["WiFi", "TV", "Air Conditioning", "Private Bath", "Mini Fridge", "Balcony", "Sitting Area"]
+  },
+  {
+    "Id": 7,
+    "number": "203",
+    "type": "Deluxe Double",
+    "floor": 2,
+    "status": "available",
+    "price": 149,
+    "amenities": ["WiFi", "TV", "Air Conditioning", "Private Bath", "Mini Fridge", "Balcony"]
+  },
+  {
+    "Id": 8,
+    "number": "204",
+    "type": "Standard Single",
+    "floor": 2,
+    "status": "maintenance",
+    "price": 89,
+    "amenities": ["WiFi", "TV", "Air Conditioning", "Private Bath"]
+  },
+  {
+    "Id": 9,
+    "number": "301",
+    "type": "Executive Suite",
+    "floor": 3,
+    "status": "available",
+    "price": 279,
+    "amenities": ["WiFi", "TV", "Air Conditioning", "Private Bath", "Mini Fridge", "Balcony", "Sitting Area", "Work Desk"]
+  },
+  {
+    "Id": 10,
+    "number": "302",
+    "type": "Junior Suite",
+    "floor": 3,
+    "status": "occupied",
+    "price": 199,
+    "amenities": ["WiFi", "TV", "Air Conditioning", "Private Bath", "Mini Fridge", "Balcony", "Sitting Area"]
+  },
+  {
+    "Id": 11,
+    "number": "303",
+    "type": "Deluxe Double",
+    "floor": 3,
+    "status": "available",
+    "price": 149,
+    "amenities": ["WiFi", "TV", "Air Conditioning", "Private Bath", "Mini Fridge", "Balcony"]
+  },
+  {
+    "Id": 12,
+    "number": "304",
+    "type": "Standard Double",
+    "floor": 3,
+    "status": "available",
+    "price": 119,
+    "amenities": ["WiFi", "TV", "Air Conditioning", "Private Bath", "Mini Fridge"]
+  },
+  {
+    "Id": 13,
+    "number": "401",
+    "type": "Presidential Suite",
+    "floor": 4,
+    "status": "available",
+    "price": 399,
+    "amenities": ["WiFi", "TV", "Air Conditioning", "Private Bath", "Mini Fridge", "Balcony", "Sitting Area", "Work Desk", "Kitchenette"]
+  },
+  {
+    "Id": 14,
+    "number": "402",
+    "type": "Executive Suite",
+    "floor": 4,
+    "status": "occupied",
+    "price": 279,
+    "amenities": ["WiFi", "TV", "Air Conditioning", "Private Bath", "Mini Fridge", "Balcony", "Sitting Area", "Work Desk"]
+  },
+  {
+    "Id": 15,
+    "number": "403",
+    "type": "Junior Suite",
+    "floor": 4,
+    "status": "dirty",
+    "price": 199,
+    "amenities": ["WiFi", "TV", "Air Conditioning", "Private Bath", "Mini Fridge", "Balcony", "Sitting Area"]
+  },
+  {
+    "Id": 16,
+    "number": "404",
+    "type": "Deluxe Double",
+    "floor": 4,
+    "status": "available",
+    "price": 149,
+    "amenities": ["WiFi", "TV", "Air Conditioning", "Private Bath", "Mini Fridge", "Balcony"]
+  },
+  {
+    "Id": 17,
+    "number": "105",
+    "type": "Standard Single",
+    "floor": 1,
+    "status": "available",
+    "price": 89,
+    "amenities": ["WiFi", "TV", "Air Conditioning", "Private Bath"]
+  },
+  {
+    "Id": 18,
+    "number": "106",
+    "type": "Deluxe Single",
+    "floor": 1,
+    "status": "occupied",
+    "price": 109,
+    "amenities": ["WiFi", "TV", "Air Conditioning", "Private Bath", "Balcony"]
+  },
+  {
+    "Id": 19,
+    "number": "205",
+    "type": "Standard Double",
+    "floor": 2,
+    "status": "available",
+    "price": 119,
+    "amenities": ["WiFi", "TV", "Air Conditioning", "Private Bath", "Mini Fridge"]
+  },
+  {
+    "Id": 20,
+    "number": "206",
+    "type": "Deluxe Double",
+    "floor": 2,
+    "status": "maintenance",
+    "price": 149,
+    "amenities": ["WiFi", "TV", "Air Conditioning", "Private Bath", "Mini Fridge", "Balcony"]
+  }
+]
